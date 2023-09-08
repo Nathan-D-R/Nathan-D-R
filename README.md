@@ -76,9 +76,3 @@ Laptop W11 (WSL Kali Linux) 💻 <br/><br/>
 
 <details>
 <summary><b>Ongoing Projects 🛠️ </b></summary><br/><br/>
-1. Working on learning Colemak-DH, I am currently at 30 wpm on Colemak, vs my 90 on qwerty. <br/><br/>
-
-2. Guitar upgrades: In the past week or so I have replaced my old 6 screw bridge for a much improved 2 point vibrato with a push in arm instead of screw in. I have also upgraded my pickups to GFS Lil' Killers, and I am going to wire them up so they each have their own phase swtich, series/parallel switch, and volume control. I have put in about $260 into this set of upgrades all in so far. Wiring plans are as shown below. <br/><br/> 
-<img src="https://user-images.githubusercontent.com/103616218/229548179-dadcaf9a-f171-4aaf-b13c-fb838d24dc65.png" /> <br/><br/>
-</p>
-</details>
