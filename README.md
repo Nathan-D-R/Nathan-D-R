@@ -22,7 +22,7 @@ Workstation 🖥️ <br/><br/>
   <img src="https://img.shields.io/badge/AMD%20Radeon_RX 6700X-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
 
 <p align='center'>
-Laptop (WSL Kali Linux) 💻 <br/><br/>
+Laptop W11 (WSL Kali Linux) 💻 <br/><br/>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Intel%20Core_i5_8th-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
