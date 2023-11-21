@@ -12,6 +12,7 @@ Server 🖧 <br/><br/>
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
   <img src="https://img.shields.io/badge/AMD%20Ryzen_7_5700G-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-64GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Storage-30TB+-%230071C5.svg?&style=for-the-badge&logoColor=white" />
 
 <p align='center'>
 Workstation 🖥️ <br/><br/>
