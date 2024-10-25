@@ -1,18 +1,18 @@
 
 ## Hey! 👋
 
-I'm a 19 year old Data Analytics Senior studying at The University of Akron. I enjoy playing and listening to music, programming, and tinkering.
+I'm a 20-year-old Data Analyst currently working on the Internal Audit Data Analytics Team at Signet Jewelers, the world's largest jewelry retailer. I'm passionate about music, technology, and problem-solving. I enjoy playing and listening to music, programming, tinkering with hardware, and working on innovative tech projects.
 
 
 ## About Me
 <details>
-  <summary><b>My Workspace 🖥️</b> </summary>
+  <summary><b>My Workspace 🖥️ </b></summary>
 <p align='center'>
 Server 🖧 <br/><br/>
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
   <img src="https://img.shields.io/badge/AMD%20Ryzen_7_5700G-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-64GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Storage-30TB+-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Storage-100_TB+-%230071C5.svg?&style=for-the-badge&logoColor=white" />
 
 <p align='center'>
 Workstation 🖥️ <br/><br/>
@@ -73,6 +73,3 @@ Laptop W11 (WSL Kali Linux) 💻 <br/><br/>
   <img src="https://img.shields.io/badge/Virt_Manager-1868F2?style=for-the-badge&logo=Vagrant&logoColor=white" />
 </p>
 </details>
-
-<details>
-<summary><b>Ongoing Projects 🛠️ </b></summary><br/><br/>
