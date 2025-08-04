@@ -1,7 +1,7 @@
 
 ## Hey! 👋
 
-I'm a 20-year-old Data Science Enthusiast currently working on the Internal Audit Data Analytics Team at Signet Jewelers, the world's largest jewelry retailer. I'm passionate about music, technology, and problem-solving. I enjoy playing and listening to music, programming, tinkering with hardware, and working on innovative tech projects.
+I'm a young Data Science Professional currently working on the Internal Audit Data Analytics Team at Signet Jewelers, the world's largest jewelry retailer. I'm passionate about music, technology, and problem-solving. I enjoy playing and listening to music, programming, tinkering with hardware, and working on innovative tech projects.
 
 
 ## About Me
@@ -22,8 +22,8 @@ Workstation 🖥️ <br/><br/>
   <img src="https://img.shields.io/badge/AMD%20Radeon_RX 6700X-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
 
 <p align='center'>
-Laptop W11 (WSL Kali Linux) 💻 <br/><br/>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+Laptop 💻 <br/><br/>
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Intel%20Core_i5_8th-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
