@@ -1,7 +1,7 @@
 
 ## Hey! 👋
 
-I'm a young Data Science Professional currently working on the Internal Audit Data Analytics Team at Signet Jewelers, the world's largest jewelry retailer. I'm passionate about music, technology, and problem-solving. I enjoy playing and listening to music, programming, tinkering with hardware, and working on innovative tech projects.
+I'm a Data Science Professional currently working on the Internal Audit Data Analytics Team at Signet Jewelers, the world's largest jewelry retailer. I'm passionate about music, technology, and problem-solving. I enjoy playing and listening to music, programming, tinkering with hardware, and working on innovative tech projects.
 
 
 ## About Me
