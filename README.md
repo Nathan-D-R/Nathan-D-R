@@ -1,75 +1,61 @@
+Data Scientist @ Signet Jewelers Internal Audit
 
-## Hey! 👋
+---
 
-I'm a Data Science Professional currently working on the Internal Audit Data Analytics Team at Signet Jewelers, the world's largest jewelry retailer. I'm passionate about music, technology, and problem-solving. I enjoy playing and listening to music, programming, tinkering with hardware, and working on innovative tech projects.
+## What I Do
 
+I work with data flows across one of the world's largest jewelry retailers, getting a unique view of how information moves through a complex organization. Outside of work, I'm 4 months deep into a Polars-based data science project (more on that around mid-2026).
 
-## About Me
+I tend to see systems as flows of information - whether that's data pipelines, AI systems, organizational communication, or application architecture. Data in, transformation, data out. This perspective influences how I approach problems and design solutions.
+
+## Current Stack
+
+**Daily Drivers:**
+- **Python** - Polars for data science, backend services, web automation (Playwright/Selenium)
+- **Rust** - When performance matters
+- **Go** - For certain backend work
+- **TypeScript/Node** - Frontend when necessary (Tailwind, modern JS frameworks)
+
+**Specializations:**
+- Data science & analytics (Polars-first)
+- AI/ML systems
+- Backend architecture
+- Web automation
+
+**Environment:**
+- Arch Linux everywhere (workstation, homelab server with 100TB+ storage)
+- NeoVim for editing
+
+## What I'm Seeing
+
+Some observations from the field:
+
+- **Polars** is hitting mainstream adoption - I'm even seeing LinkedIn tutorials about it, which usually signals widespread interest
+- **Linux desktop** has made serious strides in the past couple years
+- Companies moving back to **on-prem and hybrid cloud** architectures (Backblaze, Wasabi, Hetzner, Linode, Cloudflare) rather than all-in on hyperscalers
+- **Python** continuing to dominate for data work, while traditional enterprise languages seem to be fading
+
+These aren't hot takes, just patterns I'm noticing.
+
+## How I Think About Systems
+
+I tend to see most things as information flows. Take an AI application as an example:
+
+```
+Input -> [Prompt: instructions + Context: data] -> Model -> Output
+```
+
+This mental model applies pretty broadly: data pipelines, organizational structure, application design, communication patterns. When you can trace the flow of information, you can understand and debug the system.
+
+It's less of a philosophy and more just how my brain naturally organizes things, probably influenced by my training and career path.
+
+---
+
 <details>
-  <summary><b>My Workspace 🖥️ </b></summary>
-<p align='center'>
-Server 🖧 <br/><br/>
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/AMD%20Ryzen_7_5700G-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAM-64GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Storage-100_TB+-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+<summary><b>Hardware Setup</b></summary>
 
-<p align='center'>
-Workstation 🖥️ <br/><br/>
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/AMD%20Ryzen_7_5700G-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAM-64GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/AMD%20Radeon_RX 6700X-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
+**Server:** Arch Linux, AMD Ryzen 7 5700G, 64GB RAM, Nvidia RTX 3060 12GB, 100TB+ storage  
+**Workstation:** Arch Linux, AMD Ryzen 7 5700G, 64GB RAM, AMD Radeon RX 6700X  
+**Laptop:** Arch Linux, Intel Core i5 8th Gen, 8GB RAM (SSH into Workstation)
 
-<p align='center'>
-Laptop 💻 <br/><br/>
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Intel%20Core_i5_8th-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
-</p>
-</details>
-
-<details>
-  <summary><b>Operating Systems 💿 </b></summary>
-<p align='center'>
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
-  <img src="https://img.shields.io/badge/freebsd-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-</p>
-</details>
-
-<details>
-<p align='center'><summary><b>Languages 🧑‍💻 </b></summary>
-<p align='center'>
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" />
-  <br/><br/>
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white" />
-</details>
-  
-<details>
-  <summary><b>Tools ⚙️ </b></summary>
-<p align='center'>
-  <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white" />
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
-  <img src="https://img.shields.io/badge/Virt_Manager-1868F2?style=for-the-badge&logo=Vagrant&logoColor=white" />
-</p>
 </details>
