@@ -1,53 +1,30 @@
-Data Scientist @ Signet Jewelers Internal Audit
+Fraud and audit analytics by day. Systems architecture, open-source tooling, and homelab experiments by night.
 
 ---
 
-## What I Do
+## What I Work On
 
-I work with data flows across one of the world's largest jewelry retailers, getting a unique view of how information moves through a complex organization. Outside of work, I'm 4 months deep into a Polars-based data science project (more on that around mid-2026).
+Professionally, I work in fraud and audit analytics — digging through transaction data, behavioral signals, and process flows to find where the happy path breaks down. Turns out a brain that defaults to skepticism and gravitates toward edge cases is useful in that context.
 
-I tend to see systems as flows of information - whether that's data pipelines, AI systems, organizational communication, or application architecture. Data in, transformation, data out. This perspective influences how I approach problems and design solutions.
+Outside of work: data pipeline tooling, format libraries, self-hosted infrastructure, and ML experiments on local hardware.
 
-## Current Stack
+## Stack
 
-**Daily Drivers:**
-- **Python** - Polars for data science, backend services, web automation (Playwright/Selenium)
-- **Rust** - When performance matters
-- **Go** - For certain backend work
-- **TypeScript/Node** - Frontend when necessary (Tailwind, modern JS frameworks)
+**Languages:**
+- **Rust** — when performance and correctness are the point
+- **Python** — data work and scripting, Polars-first
+- **TypeScript** — frontend when necessary
+- **Go** — certain backend use cases
 
-**Specializations:**
-- Data science & analytics (Polars-first)
-- AI/ML systems
-- Backend architecture
-- Web automation
+**Tooling:** strong preference for tools that do their job and stay out of the way. Current favorites: [`uv`](https://docs.astral.sh/uv/) for Python, [`bun`](https://bun.sh) for JS, [`rustup`](https://rustup.rs) for Rust toolchains, [`pixi`](https://pixi.sh) for reproducible environments. The common thread is fast, portable, and project-isolated.
 
-**Environment:**
-- Arch Linux everywhere (workstation, homelab server with 100TB+ storage)
-- NeoVim for editing
-
-## What I'm Seeing
-
-Some observations from the field:
-
-- **Polars** is hitting mainstream adoption - I'm even seeing LinkedIn tutorials about it, which usually signals widespread interest
-- **Linux desktop** has made serious strides in the past couple years
-- Companies moving back to **on-prem and hybrid cloud** architectures (Backblaze, Wasabi, Hetzner, Linode, Cloudflare) rather than all-in on hyperscalers
-- **Python** continuing to dominate for data work, while traditional enterprise languages seem to be fading
-
-These aren't hot takes, just patterns I'm noticing.
+**Infrastructure:** Arch Linux everywhere. Self-hosted Postgres, object storage, and various services on a homelab server. Docker for isolation and reproducibility.
 
 ## How I Think About Systems
 
-I tend to see most things as information flows. Take an AI application as an example:
+Most systems are information flows. Data in, transformation, data out. The model holds for data pipelines, AI systems, organizational structure, application architecture — trace the flow and you can usually understand what's going wrong.
 
-```
-Input -> [Prompt: instructions + Context: data] -> Model -> Output
-```
-
-This mental model applies pretty broadly: data pipelines, organizational structure, application design, communication patterns. When you can trace the flow of information, you can understand and debug the system.
-
-It's less of a philosophy and more just how my brain naturally organizes things, probably influenced by my training and career path.
+The fraud and audit background reinforces this: you develop a habit of asking "what does this system assume is true?" and then going to find where that assumption fails. Useful for debugging. Occasionally exhausting otherwise.
 
 ---
 
