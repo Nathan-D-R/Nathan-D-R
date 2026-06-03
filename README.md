@@ -1,28 +1,16 @@
-Fraud and audit analytics by day. Systems architecture, open-source tooling, and homelab experiments by night.
+# Hi, I'm Nathan
+Fraud and internal audit data analyst by day. Systems builder and open source maintainer by night, with my projects living under [Sigilweaver](https://github.com/Sigilweaver).
 
----
+## Background & Philosophy
 
-## What I Work On
+My background is originally in the biosciences, but I pivoted to business data science to trade the academic track for fast-moving, applied environments. Today, I work in retail analytics, digging through transaction data and process flows to find where the happy path breaks down.
 
-Professionally, I work in fraud and audit analytics — digging through transaction data, behavioral signals, and process flows to find where the happy path breaks down. Turns out a brain that defaults to skepticism and gravitates toward edge cases is useful in that context.
+I tend to view everything - whether it is an organizational structure, a retail supply chain, or a data pipeline - as an information flow.
 
-Outside of work: data pipeline tooling, format libraries, self-hosted infrastructure, and ML experiments on local hardware. Open-source projects live under [Sigilweaver](https://github.com/Sigilweaver).
+I try to bring a "machine-sympathetic" ethos to my work. Every system is optimized for something. In fraud analytics, that means asking "what does this system assume is true?" and hunting down where that assumption fails. In software, it means building tools that respect the underlying hardware through bounded memory, cache locality, and formats that stay out of your way.
 
-## Stack
+## Stack & Tooling
 
-**Languages:**
-- **Rust** — when performance and correctness are the point
-- **Python** — data work and scripting, Polars-first
-- **TypeScript** — frontend when necessary
-- **Go** — certain backend use cases
-
-**Tooling:** strong preference for tools that do their job and stay out of the way. Current favorites: [`uv`](https://docs.astral.sh/uv/) for Python, [`bun`](https://bun.sh) for JS, [`rustup`](https://rustup.rs) for Rust toolchains, [`pixi`](https://pixi.sh) for polyglot reproducible environments. The common thread is fast, portable, and project-isolated.
-
-**Infrastructure:** Arch Linux everywhere. Self-hosted Postgres, object storage, and various services on a homelab server. Docker for isolation and reproducibility.
-
-## How I Think About Systems
-
-Most systems are information flows. Data in, transformation, data out. The model holds for data pipelines, AI systems, organizational structure, application architecture — trace the flow and you can usually understand what's going wrong.
-
-The fraud and audit background reinforces this: you develop a habit of asking "what does this system assume is true?" and then going to find where that assumption fails. Useful for debugging. Occasionally exhausting otherwise.
-
+* **Languages:** Rust (performance and correctness), Python (data/scripting, Polars-first), TypeScript (frontend), and Go.
+* **Infrastructure:** Arch Linux everywhere. My homelab runs self-hosted Postgres, object storage, and Docker for reproducibility.
+* **Toolchain:** Strong preference for fast, portable, and project-isolated tools like `uv`, `rustup`, `bun`, and `pixi`.
