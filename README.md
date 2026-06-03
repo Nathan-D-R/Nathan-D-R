@@ -1,4 +1,5 @@
 # Hi, I'm Nathan
+
 Fraud and internal audit data analyst by day. Systems builder and open source maintainer by night, with my projects living under [Sigilweaver](https://github.com/Sigilweaver).
 
 ## Background & Philosophy
@@ -13,4 +14,4 @@ I try to bring a "machine-sympathetic" ethos to my work. Every system is optimiz
 
 * **Languages:** Rust (performance and correctness), Python (data/scripting, Polars-first), TypeScript (frontend), and Go.
 * **Infrastructure:** Arch Linux everywhere. My homelab runs self-hosted Postgres, object storage, and Docker for reproducibility.
-* **Toolchain:** Strong preference for fast, portable, and project-isolated tools like `uv`, `rustup`, `bun`, and `pixi`.
+* **Toolchain:** Strong preference for tools that do their job and stay out of the way, like `uv`, `bun`, `rustup`, and `pixi`.
